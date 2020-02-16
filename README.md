@@ -1,25 +1,7 @@
-# rfm_model
+# RFM Model with R
 
-# 헤더 크기 (h1) 
-## 헤더 크기 (h2) 
-### 헤더 크기 (h3) 
-#### 헤더 크기 (h4) 
-##### 헤더 크기 (h5) 
-###### 해더 크기 (h6)
+# RFM Model
 
-Unordered 
-* Item 1 
-* Item 2 
-    * Item 2a 
-    * Item 2b 
+[RFM의 개념](https://blog.naver.com/bestinall/221274298234)  
+[R을 활용한 RFM 분석방법](https://blog.naver.com/bestinall/221672243147)  
 
-Ordered 
-1. Item 1 
-1. Item 2 
-1. Item 3 
-    1. Item 3a 
-    1. Item 3b
-
-문장을 작성하면 됩니다.(공백을 안 두면..) 
-빈 줄이 없으면 자동으로 앞의 문장 뒤에 붙습니다.(Space Bar를 두 번 이상 눌러 띄어쓰기를 하면..)   
-위 문장에서 두 칸의 공백을 두어 강제 개행할 수 있습니다.
